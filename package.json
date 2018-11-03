@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "node douban.js"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "syncrequest": "^1.4.3"
+    }
+}
